@@ -36,15 +36,13 @@ while($rows_usuarios = mysqli_fetch_array($query)){
 <?php
 #mensagem
 
-$men2 = "*-- Barbearia-LS --* \n *Vai querer cortar cabelo, barba ou sobrancelha?* ";
+$men2 = "SUA MENSAGEM";
 
-$men3 = "*-- LS --* \n
-*qual o dia e horario?* ";
+$men3 = "SUA MENSAGEM";
 
-$men4 = '*muito obrigado pela preferencia*';
+$men4 = "SUA MENSAGEM";
 
-$men5 = "*---PIX----*\n
-Chave: (75) 99162-7153"
+$men5 = "SUA MENSAGEM";
 ?>
 
 <?php
